@@ -1,0 +1,2 @@
+- save data in laravel 8 and jquery ajax
+- nested query with eloquent laravel 8
